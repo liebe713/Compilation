@@ -1,0 +1,124 @@
+
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.upClick{
+    position: absolute;
+    margin: 20px;
+    margin-top: 1%;
+    margin-left: -71.5%;
+    padding: 10px;
+}
+
+.sectionOne, .sectionTwo {
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+
+.upClass {
+    text-align: center;
+    
+}
+
+.upClass h1 {
+    color: #333;
+}
+
+.upClass p {
+    color: #666;
+}
+
+.upClass button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+
+.dwnClass {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.dwnClass h1 {
+    color: #333;
+}
+
+.dwnClass img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 10px;
+}
+
+.dwnClass p {
+    color: #666;
+}
+
+.dwnClass button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+
+.profOne, .profTwo, .profThr, .profFou {
+    margin-top: 20px;
+}
+
+.profOne img, .profTwo img, .profThr img, .profFou img {
+    max-width: 100%;
+    height: auto;
+}
+
+.MyDiv1{
+    display: inline;
+    margin: 10px;
+}
+
+.MyDiv2{
+    display: flex;
+}
+
+.H1{
+    margin-top: 100px;
+    margin-left: -40%;
+}
+
+.p1{
+    margin-top: 1%;
+    margin-left: -40%;
+    
+}
+
+.imgOne1{
+    margin-top: -10.5%;
+    margin-left: 550px;
+}
+
+.back{
+    list-style-type: none;
+    padding: 10px 20px;
+    background-color: #f5f5f5;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    display: inline-block;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    text-decoration: none;
+    margin-top: 4%;
+    margin-left: 4%;
+}
