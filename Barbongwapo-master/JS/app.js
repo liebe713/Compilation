@@ -7,18 +7,18 @@ const fSec = {
     title : "Hello! I'm Brandon",
     para : "This is an activity that was asked from us to do",
     clickBtn : "Contact Me",
-    fImg : "OIP.jpg"
+    fImg : "person.jpg"
 }
 
 const sSec = {
     title1 : "PROJECT COMPLETED",
-    imgOne : "OIP1.jpg",
+    imgOne : "airport.jpg",
     para1 : "The airport infrastructure necessarily assumes the presence of lighting and radio electronic devices and systems necessary to ensure the safety of aircraft flights.",
     fBtn : "Learn More",
-    imgTwo : "OIP4.jpg",
+    imgTwo : "computer.jpg",
     para2 : "Computer Infrastructure means all computers, networks, printers, operating systems, and telecommunications systems used by Customer in the operation of the Licensed Program.",
     sBtn : "Learn More",
-    imgThr : "OIP4.jpg",
+    imgThr : "road2.jpg",
     para3 : "Road infrastructure includes physical assets like the roads themselves, as well as everything associated with them, for example bus stops, trucking terminals, signage, drainage, and structures such as bridges or tunnels.",
     tBtn : "Learn More"
 }

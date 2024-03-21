@@ -1,4 +1,8 @@
-
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
 
 body {
@@ -11,12 +15,12 @@ body {
     position: absolute;
     margin: 20px;
     margin-top: 1%;
-    margin-left: -71.5%;
+    margin-left: -53.9%;
     padding: 10px;
 }
 
 .sectionOne, .sectionTwo {
-    padding: 20px;
+    padding: 10px;
     margin-bottom: 20px;
 }
 
@@ -79,23 +83,14 @@ body {
     margin-top: 20px;
 }
 
-.profOne img, .profTwo img, .profThr img, .profFou img {
-    max-width: 100%;
-    height: auto;
-}
 
 .MyDiv1{
-    display: inline;
-    margin: 10px;
-}
-
-.MyDiv2{
     display: flex;
 }
 
 .H1{
     margin-top: 100px;
-    margin-left: -40%;
+    margin-left: -43%;
 }
 
 .p1{
@@ -105,9 +100,22 @@ body {
 }
 
 .imgOne1{
-    margin-top: -10.5%;
-    margin-left: 550px;
+    margin-top: -11.5%;
+    margin-left: 350px;
 }
+.img1{
+    height: 400px;
+    width: 400px;
+}
+.img2{
+    height: 400px;
+    width: 330px;
+}
+.img3{
+    height: 400px;
+    width: 320px;
+}
+
 
 .back{
     list-style-type: none;
